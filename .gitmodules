@@ -1,0 +1,3 @@
+[submodule "ttf-mswin10-arch"]
+	path = ttf-mswin10-arch
+	url = https://github.com/Delayless/ttf-mswin10-arch
